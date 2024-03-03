@@ -1,0 +1,13 @@
+{
+  "require": {
+    "php-di/php-di": "^6.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "./"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
